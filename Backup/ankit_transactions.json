@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "67e112c42160bcda19511658",
+        "username": "ankit",
+        "amount": 123.0,
+        "category": "food",
+        "type": "income",
+        "date": "2025-03-24 13:37:32"
+    },
+    {
+        "_id": "67e112d12160bcda19511659",
+        "username": "ankit",
+        "amount": 2000.0,
+        "category": "food",
+        "type": "expense",
+        "date": "2025-03-24 13:37:45"
+    }
+]
